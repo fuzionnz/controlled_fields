@@ -4,4 +4,4 @@ description: Enable field widgets to be visible or not on dependent on a control
 package: Fields
 dependencies:
   - filter_form_values
-core_version_requirement: ^9 || ^10
+core_version_requirement: ^9 || ^10 || ^11
